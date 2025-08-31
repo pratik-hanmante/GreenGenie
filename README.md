@@ -4,7 +4,7 @@ A microservices-based AI-powered farming assistant built with Spring Boot, featu
 
 ## 🚀 Overview
 
-FarmAI is a comprehensive agricultural intelligence platform built using microservices architecture, inspired by Chris Blakely's patient management system design patterns. The system combines custom Large Language Models with modern Spring Boot microservices to provide farmers with personalized advice, real-time insights, and data-driven recommendations.
+GreenGenie is a comprehensive agricultural intelligence platform built using microservices architecture.The system combines custom Large Language Models with modern Spring Boot microservices to provide farmers with personalized advice, real-time insights, and data-driven recommendations.
 
 ## ✨ Architecture Overview
 
@@ -723,4 +723,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Built with ❤️ for farmers worldwide, following Chris Blakely's microservices patterns
+Built with ❤️ for farmers worldwid

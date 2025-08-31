@@ -5,6 +5,7 @@ A microservices-based AI-powered farming assistant built with Spring Boot, featu
 ## 🚀 Overview
 
 GreenGenie is a comprehensive agricultural intelligence platform built using microservices architecture.The system combines custom Large Language Models with modern Spring Boot microservices to provide farmers with personalized advice, real-time insights, and data-driven recommendations.
+💡 It also supports intelligent **image analysis**, allowing users to upload crop or field images for automated diagnostics, such as detecting plant diseases, identifying pests, and monitoring crop health using computer vision models.
 
 ## ✨ Architecture Overview
 
@@ -48,6 +49,7 @@ GreenGenie is a comprehensive agricultural intelligence platform built using mic
 - **Model Framework**: Hugging Face Transformers
 - **Training Pipeline**: Python with PyTorch
 - **Spring AI**: Integration framework for AI services
+- **Image Preprocessing**: OpenCV, Pillow for resizing and format conversion
 
 ### DevOps & Infrastructure
 - **Containerization**: Docker & Docker Compose

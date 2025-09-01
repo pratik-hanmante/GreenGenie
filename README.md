@@ -227,7 +227,6 @@ farm-ai-microservices/
 ### Prerequisites
 - Java 17+
 - Maven 3.8+
-- Node.js 18+
 - Docker & Docker Compose
 - PostgreSQL 15+
 - Redis 7+

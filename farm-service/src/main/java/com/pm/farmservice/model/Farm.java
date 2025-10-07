@@ -111,10 +111,7 @@ public class Farm {
         PIVOT
     }
 
-    // ===========================
-    // Helper methods
-    // ===========================
-
+    
     public void addCropType(String cropType) {
         if (cropTypes != null && !cropTypes.contains(cropType)) {
             cropTypes.add(cropType);

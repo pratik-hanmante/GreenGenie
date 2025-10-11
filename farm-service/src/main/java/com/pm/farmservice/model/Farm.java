@@ -180,11 +180,6 @@ public class Farm {
 
     // Business Logic Helper Methods
 
-    /**
-     * Adds a crop type to the farm if not already present.
-     * @param cropType the crop type to add
-     * @return true if added, false if already exists
-     */
     public boolean addCropType(String cropType) {
         if (cropType == null || cropType.trim().isEmpty()) {
             throw new IllegalArgumentException("Crop type cannot be null or empty");

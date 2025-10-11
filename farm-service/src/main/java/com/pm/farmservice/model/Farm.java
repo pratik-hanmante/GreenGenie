@@ -11,9 +11,7 @@ import java.time.LocalDateTime;
 import java.util.List;
 import java.util.UUID;
 
-/**
- * Represents a farm owned by a farmer.
- */
+
 @Entity
 @Table(name = "farms", indexes = {
         @Index(name = "idx_farmer_id", columnList = "farmer_id"),

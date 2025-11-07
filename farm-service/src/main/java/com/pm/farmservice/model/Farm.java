@@ -31,7 +31,7 @@ public class Farm {
     @Column(name = "farmer_id", nullable = false)
     private UUID farmerId;
 
-    // Name of the farm
+    
     @Column(nullable = false, length = 255)
     private String name;
 

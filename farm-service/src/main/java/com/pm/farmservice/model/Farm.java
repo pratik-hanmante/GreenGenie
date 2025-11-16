@@ -35,7 +35,7 @@ public class Farm {
     @Column(nullable = false, length = 255)
     private String name;
 
-    // Location can be GPS coordinates or just an address
+    // Location can be GPS coordinates or just an address of the location
     @Column(nullable = false, length = 500)
     private String location;
 
